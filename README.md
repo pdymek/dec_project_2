@@ -3,6 +3,9 @@
 
 This project consisting of implementation ETL process for getting DVD RENTAL data.
 
+
+The project is done with Airbyte/Python, published on AWS. The database/dwh engine is Posgres.
+
 ---
 
 | Author          | GitHub profile |
@@ -22,6 +25,7 @@ The solutions is done with help of:
 
 
 ---
+The synhronization is done for following tables:
 
 Tables for ingestion:
 - CATEGORY
@@ -34,24 +38,63 @@ Tables for ingestion:
 - CITY
 - COUNTRY
 
----
-
-Running Airbyte on AWS
-
-![aribyte_aws](/docs/airbyte_aws.png)
+RENTAL and INVENTORY have delta load strategy, other are loaded as full load.
 
 Tables after igestion through Airbyte
 
 ![airbyte_table](/docs/airbyte_tables.png)
 
+---
+
+
+### AWS publishing
+
+Running Airbyte on AWS
+
+AWS tech stack:
+
+- Source postgres database - RDS
+- Airbyte connection - EC2
+- Running docker & transorm - ECS
+- Target postgres database - RDS
+
+![aribyte_aws](/docs/airbyte_aws.png)
+
 Using AWS cmd client
 
 ![aws_client](/docs/aws_client.png)
+
+
+---
+
+### Output DWH
+
+DWH shema:
+- fact_rental
+- dim_films - films & categories
+- dim customers - customers & regions
+- dim dates - auto-generated dates
+
 
 ![dwh](/docs/dwh.drawio.svg)
 
 ![dvd_rental_dwh](/docs/dvd_rental_dwh.png)
 
+---
+
+### Output reports
+
+Reports are refreshed after tansform and loading stage. The sequence is kept with dag.
+
+```  python
+        dag.add(dim_films)
+        dag.add(dim_dates)
+        dag.add(dim_customers)
+        dag.add(fact_rental)
+        dag.add(report_monthly_cumulative_amount_by_country, fact_rental, dim_dates, dim_customers)
+        dag.add(report_top_10_rented_films, fact_rental, dim_films)
+        dag.add(report_films_rented_more_than_20_times, fact_rental, dim_films)
+```
 
 Sample sql report on DWH:
 
@@ -74,6 +117,9 @@ from cte_base as cb
 ```
 
 ---
+### Docker & config files
+
+The `.env` file should be located in `cd` folder, with listed paramter
 
 Template `.env` file:
 
@@ -94,3 +140,12 @@ AIRBYTE_USERNAME=
 AIRBYTE_PASSWORD=
 AIRBYTE_SERVER_NAME=
 ```
+
+The local docker is run with commands:
+
+Build:
+> docker build . -t dvd_rental:2.0
+
+
+Run:
+> docker run --env-file .env dvd_rental:2.0
