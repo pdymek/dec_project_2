@@ -1,0 +1,312 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="591px" height="424px" viewBox="-0.5 -0.5 591 424" content="&lt;mxfile&gt;&lt;diagram id=&quot;EAUTd5CI6c3Hr3M0Ygga&quot; name=&quot;Page-1&quot;&gt;7Vlbb+I6EP41vK5Iwq2PEOjZlWAvpUfdfULT2CRWHRs5psD++jNOHCAL7YmBsi8IhDLj+ezxeG4OjSBM1/8oWCQTSShv+E2ybgTDhu93uj7+GsamYLS9TsGIFSMFq7ljTNlvWjC9krtkhGaWV7C0lFyzRZUZSSFopCs8UEquqmJzyUmFsYCYHjCmEfBD7hMjOim4vXZzx/9MWZyUK3tNO/IM0Uus5FLY9Rp+MG/RiEbFcArlXFY+S4DI1R4rGDWCUEmpi6d0HVJuTFs12/0bo1u9FRW6DqBXAF6BL+3W7/vh4+xh9PWxP7Yq6k1plmzFUg4CqcFcCj21I02ko4RxMoaNXJp1M412KKlBIhX7jfLAcchDBg4rbU/d75jZGOeh5FIhQ8h8gR1oaiazyyiaIex7uT/vD9YE1hXBMWS6VFByDouMPecqG2AKKmZiILWWqRVKdLrTUckXWiqF59jsm4/d+h7fA/NBvjUlVZqu3zwOb3vIGDtUplSrDYpYALpYAbFxg6sW9GrnhV7L8pJ9DyxdE6znx9u5d6ePD9YBjjvD3YEzNPwONydI2Cs+xro4qnSGCDuCc+4NHpHPtFTUBWBsBdwFES1xkZSqE1YhoKkDRi+VcMNEmAv0rFjtLdAfUYbuo993wMNoAc5igSSnc4M1TsgwnfUtW8uFmXEBERPxOJcZtnacB+tIhiURO+d5TkoYIVSYjUsNGp63wb6QTOjc0doD/KLrhc1P7UYbtQyR9nY0fo24woARuCFgeRxQDMsVNaE5WCVM0ymqYeZeYTGpRuFZsdY7HmtlbHVqhpbfOj+0PP8gtoZfJrNh/3E0vaXZa6fZdtlnlO1JzSzb8i6QZb2gTpoduiSZXxRUbeEJ2jVxk/4KaX1lhrBxkf02d9L+idIXAhsnjULs6wQBZbC1QfdSYbemKXE6iR9LDLm3M/3RkzsF43aIBnGSEYwwomrL97EKY90RnyVnxMEP+ljBFXPHhSCAnID7jmrK+tsKn6YmlTrIjxyMlp+l2wI55J01bh3Fx3QURRk/u6UIepdoKVpHW4rw3+njt8no4dZWXL2t6JzWVWxfBpzlDe06XcUpN6U5U5meCZeCy8EVAZFmr/RZyvplEAhBN8lctmIhrvJ+bQBhpo5F9RP5QmbmGhpJ4nClZHrjdD1G+frC5r6q3OYvILdadOVa1LrM9fbuErWoc7QW3X8ZT2516G/XoaBZ9yVi9xKFqPsRbxE109zlRR3HIKSzjcvNsnwjuFSgmRSuOOVyTcSrWOxwfzMaidihYqNxI9Qnlm6ZvAp8r4DfkvoHJfXOZZJ66xJJvXdwzpTEtMzXZYY9P9mZWd9PdaiEXKqolLK9Lub/mFqxu+N2w0wAprOszHWWUe4cjUJNb/TTemFO/DIE+polh+v9weHGUlczZvfvGXP7L6izMb2qMYOu9z/mzCnz2geVpOraNg6uZmMkd/8e52N7/9AHo/8A&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(244, 236, 236);">
+    <defs/>
+    <g>
+        <path d="M 225 206 L 225 180 L 365 180 L 365 206" fill="none" stroke="#0a0a0a" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 225 206 L 225 330 L 365 330 L 365 206" fill="none" stroke="#0a0a0a" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 225 206 L 365 206" fill="none" stroke="#0a0a0a" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 193px; margin-left: 295px;">
+                        <div data-drawio-colors="color: #1a1a1a; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(26, 26, 26); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                FACT_RENTAL
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="295" y="197" fill="#1a1a1a" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    FACT_RENTAL
+                </text>
+            </switch>
+        </g>
+        <rect x="225" y="206" width="140" height="124" fill="none" stroke="#0a0a0a" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 130px; height: 1px; padding-top: 213px; margin-left: 231px;">
+                        <div data-drawio-colors="color: #1a1a1a; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 120px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(26, 26, 26); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                <div>
+                                    film_id
+                                </div>
+                                <div>
+                                    store_id
+                                </div>
+                                <div>
+                                    rental_id
+                                </div>
+                                <div>
+                                    customer_id
+                                </div>
+                                <div>
+                                    rental_date
+                                </div>
+                                <div>
+                                    return_date
+                                </div>
+                                <div>
+                                    count_rental
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="231" y="225" fill="#1a1a1a" font-family="Helvetica" font-size="12px">
+                    film_id...
+                </text>
+            </switch>
+        </g>
+        <path d="M 450 26 L 450 0 L 590 0 L 590 26" fill="none" stroke="#0a0a0a" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 450 26 L 450 410 L 590 410 L 590 26" fill="none" stroke="#0a0a0a" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 450 26 L 590 26" fill="none" stroke="#0a0a0a" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 13px; margin-left: 520px;">
+                        <div data-drawio-colors="color: #1a1a1a; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(26, 26, 26); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                DIM_DATES
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="520" y="17" fill="#1a1a1a" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    DIM_DATES
+                </text>
+            </switch>
+        </g>
+        <rect x="450" y="26" width="140" height="384" fill="none" stroke="#0a0a0a" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 130px; height: 1px; padding-top: 33px; margin-left: 456px;">
+                        <div data-drawio-colors="color: #1a1a1a; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 380px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(26, 26, 26); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                <div>
+                                    Date
+                                </div>
+                                <div>
+                                    Year
+                                </div>
+                                <div>
+                                    Month
+                                </div>
+                                <div>
+                                    MonthName
+                                </div>
+                                <div>
+                                    Day
+                                </div>
+                                <div>
+                                    DayOfYear
+                                </div>
+                                <div>
+                                    WeekdayName
+                                </div>
+                                <div>
+                                    CalendarWeek
+                                </div>
+                                <div>
+                                    FormattedDate
+                                </div>
+                                <div>
+                                    Quartal
+                                </div>
+                                <div>
+                                    YearQuartal
+                                </div>
+                                <div>
+                                    YearMonth
+                                </div>
+                                <div>
+                                    YearCalendarWeek
+                                </div>
+                                <div>
+                                    Weekend
+                                </div>
+                                <div>
+                                    AmericanHoliday
+                                </div>
+                                <div>
+                                    AustrianHoliday
+                                </div>
+                                <div>
+                                    CanadianHoliday
+                                </div>
+                                <div>
+                                    Period
+                                </div>
+                                <div>
+                                    CWStart
+                                </div>
+                                <div>
+                                    CWEnd
+                                </div>
+                                <div>
+                                    MonthStart
+                                </div>
+                                <div>
+                                    MonthEnd
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="456" y="45" fill="#1a1a1a" font-family="Helvetica" font-size="12px">
+                    Date...
+                </text>
+            </switch>
+        </g>
+        <path d="M 0 26 L 0 0 L 140 0 L 140 26" fill="none" stroke="#0a0a0a" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 26 L 0 220 L 140 220 L 140 26" fill="none" stroke="#0a0a0a" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 26 L 140 26" fill="none" stroke="#0a0a0a" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 13px; margin-left: 70px;">
+                        <div data-drawio-colors="color: #1a1a1a; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(26, 26, 26); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                DIM_CUSTOMERS
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="70" y="17" fill="#1a1a1a" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    DIM_CUSTOMERS
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="26" width="140" height="194" fill="none" stroke="#0a0a0a" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 130px; height: 1px; padding-top: 33px; margin-left: 6px;">
+                        <div data-drawio-colors="color: #1a1a1a; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 190px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(26, 26, 26); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                <div>
+                                    customer_id
+                                </div>
+                                <div>
+                                    first_name
+                                </div>
+                                <div>
+                                    last_name
+                                </div>
+                                <div>
+                                    activebool
+                                </div>
+                                <div>
+                                    address_id
+                                </div>
+                                <div>
+                                    address
+                                </div>
+                                <div>
+                                    address2
+                                </div>
+                                <div>
+                                    district
+                                </div>
+                                <div>
+                                    postal_code
+                                </div>
+                                <div>
+                                    city_id
+                                </div>
+                                <div>
+                                    city
+                                </div>
+                                <div>
+                                    country_id
+                                </div>
+                                <div>
+                                    country
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="6" y="45" fill="#1a1a1a" font-family="Helvetica" font-size="12px">
+                    customer_id...
+                </text>
+            </switch>
+        </g>
+        <path d="M 0 276 L 0 250 L 140 250 L 140 276" fill="none" stroke="#0a0a0a" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 276 L 0 420 L 140 420 L 140 276" fill="none" stroke="#0a0a0a" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 276 L 140 276" fill="none" stroke="#0a0a0a" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 263px; margin-left: 70px;">
+                        <div data-drawio-colors="color: #1a1a1a; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(26, 26, 26); line-height: 1.2; pointer-events: none; white-space: nowrap;">
+                                DIM_FILMS
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="70" y="267" fill="#1a1a1a" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    DIM_FILMS
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="276" width="140" height="144" fill="none" stroke="#0a0a0a" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 130px; height: 1px; padding-top: 283px; margin-left: 6px;">
+                        <div data-drawio-colors="color: #1a1a1a; " style="box-sizing: border-box; font-size: 0px; text-align: left; max-height: 140px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(26, 26, 26); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                <div>
+                                    film_id
+                                </div>
+                                <div>
+                                    title
+                                </div>
+                                <div>
+                                    release_year
+                                </div>
+                                <div>
+                                    rental_duration
+                                </div>
+                                <div>
+                                    rental_rate
+                                </div>
+                                <div>
+                                    length
+                                </div>
+                                <div>
+                                    rating
+                                </div>
+                                <div>
+                                    film_category_id
+                                </div>
+                                <div>
+                                    film_category_name
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="6" y="295" fill="#1a1a1a" font-family="Helvetica" font-size="12px">
+                    film_id...
+                </text>
+            </switch>
+        </g>
+        <path d="M 140 168.11 L 219.65 219.44" fill="none" stroke="#0a0a0a" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 224.06 222.28 L 216.28 221.43 L 219.65 219.44 L 220.07 215.55 Z" fill="#0a0a0a" stroke="#0a0a0a" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 140 311.87 L 219.34 270.92" fill="none" stroke="#0a0a0a" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 224.01 268.51 L 219.39 274.83 L 219.34 270.92 L 216.18 268.61 Z" fill="#0a0a0a" stroke="#0a0a0a" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 450 233.36 L 371.22 250.64" fill="none" stroke="#0a0a0a" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 366.09 251.76 L 372.18 246.85 L 371.22 250.64 L 373.68 253.68 Z" fill="#0a0a0a" stroke="#0a0a0a" stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
