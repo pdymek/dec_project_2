@@ -25,4 +25,6 @@ The users of our datasets are Data Analysts and the Mangement of  the business.
 
 ## Solution architecture
 
+![](docs/project_plan.drawio.svg)
+
 ## Breakdown of tasks 
